@@ -1,0 +1,4 @@
+This project is known as calorie advisor.
+
+Whatever food that we eat throughout the day, we will upload a picture of it in ths app and this app will tell us whether the food
+that we are eating is healty, not healty, the amount of calorie, etc.
