@@ -29,16 +29,16 @@ For further information about the Gemini API, visit [Google's official Gemini AP
 To get started with any of the projects in this repository, follow these steps:
 
 1. Clone the repository to your local machine:
-   ```Python
+   ```bash
    git clone https://github.com/MoosaMemon/GoogleGemini-GenAI-Projects.git
    ```
 
 2. Navigate to the project directory:
-   ```Python
+   ```bash
    cd GoogleGemini-GenAI-Projects
    ```
 3. Install the relevant libraries using the requirements.txt file:
-   ```Python
+   ```bash
    pip install -r requirements.txt
    ```
 4. Follow the project-specific instructions provided in the project's directory for setup and usage.
